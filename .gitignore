@@ -1,0 +1,13 @@
+# Intellij template
+.idea
+*.iml
+*.ipr
+*.iws
+
+out/
+
+target/
+.mvn/
+mvnw
+mvnw.cmd
+README.md
